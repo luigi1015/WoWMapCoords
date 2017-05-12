@@ -1,0 +1,7 @@
+## Interface: 70200
+## Title: MapCoords
+## Author: Jeff Crone
+## Version: 0.1
+
+coords.lua
+MapCoords.xml
